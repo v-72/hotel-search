@@ -1,0 +1,26 @@
+{
+  "name": "hotel-search",
+  "version": "1.0.0",
+  "description": "hotel search",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayhegde/hotel-search.git"
+  },
+  "author": "vinayhegde@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayhegde/hotel-search/issues"
+  },
+  "homepage": "https://github.com/vinayhegde/hotel-search#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.1",
+    "request-promise": "^4.2.1"
+  }
+}
