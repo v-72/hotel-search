@@ -23,3 +23,8 @@ b. body-parser and express-validator to parse and validate the request.
 
 c. cheerio to parse the html result and query. 
 
+
+
+Known Issues:
+
+I faced little problem in getting array of available booking site list. 
