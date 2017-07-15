@@ -27,4 +27,4 @@ c. cheerio to parse the html result and query.
 
 Known Issues:
 
-I faced little problem in getting array of available booking site list. 
+I faced problem in getting array of available booking site list while parsing with cheerio. 
